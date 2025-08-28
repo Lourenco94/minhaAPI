@@ -57,7 +57,7 @@
         "cidade": "Mogi das Cruzes",
         "pais": "Rússia",
         "link": "https://sp.senai.br/unidade/mogidascruzes",
-        "imagem": "<img src='img/qualquerdois.avif' width='200px'>"
+        "imagem": "<img src='img/qualquersete.jfif' width='200px'>"
     },
     {
         "id": 7,
@@ -97,7 +97,6 @@
         "cidade": "Mogi das Cruzes",
         "pais": "Colômbia",
         "link": "https://sp.senai.br/unidade/mogidascruzes",
-        "imagem": "<img src='img/qualquerseis.avif' width='200px'>"
+        "imagem": "<img src='img/qualqueroito.jfif' width='200px'>"
     }
 ]
-
