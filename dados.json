@@ -7,7 +7,7 @@
         "cidade": "Mogi das Cruzes",
         "pais": "Azerbaijão",
         "link": "https://sp.senai.br/unidade/mogidascruzes",
-        "imagem": "<img scr='img/Bruno Márcio.jfif' width='200px'>"
+        "imagem": "<img src='img/Bruno Márcio.jfif' width='200px'>"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
         "cidade": "Mogi das Cruzes",
         "pais": "Alemanha",
         "link": "https://sp.senai.br/unidade/mogidascruzes",
-        "imagem": "<img scr='img/Dançarino Mágico.jfif' width='200px'>"
+        "imagem": "<img src='img/Dançarino Mágico.jfif' width='200px'>"
     },
     {
         "id": 3,
@@ -27,6 +27,7 @@
         "cidade": "Mogi das Cruzes",
         "pais": "",
         "link": "https://sp.senai.br/unidade/mogidascruzes",
-        "imagem": ""
+        "imagem": "<img src='img/Pedroca.png' width='200px'>"
     }
+
 ]
