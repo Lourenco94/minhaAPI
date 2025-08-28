@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "cpf": 12345678900,
+        "nome": "Nicolas",
+        "sobrenome": "Lourenço",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Azerbaijão",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img scr='img/Bruno Márcio.jfif' width='200px'>"
+    },
+    {
+        "id": 2,
+        "cpf": 98765432100,
+        "nome": "Lucas",
+        "sobrenome": "Silva",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Alemanha",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img scr='img/Dançarino Mágico.jfif' width='200px'>"
+    },
+    {
+        "id": 3,
+        "cpf": 11111111111,
+        "nome": "Pedro",
+        "sobrenome": "Bispo",
+        "cidade": "Mogi das Cruzes",
+        "pais": "",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": ""
+    }
+]
