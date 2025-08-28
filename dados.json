@@ -25,9 +25,79 @@
         "nome": "Pedro",
         "sobrenome": "Bispo",
         "cidade": "Mogi das Cruzes",
-        "pais": "",
+        "pais": "Tchecoslováquia",
         "link": "https://sp.senai.br/unidade/mogidascruzes",
         "imagem": "<img src='img/Pedroca.png' width='200px'>"
+    },
+    {
+        "id": 4,
+        "cpf": 22222222222,
+        "nome": "Renato",
+        "sobrenome": "Falcão",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Holanda",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img src='img/De Jong.webp' width='200px'>"
+    },
+    {
+        "id": 5,
+        "cpf": 33333333333,
+        "nome": "Cleiton",
+        "sobrenome": "Wallace",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Afeganistão",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img src='img/qualquerum.jpg' width='200px'>"
+    },
+    {
+        "id": 6,
+        "cpf": 44444444444,
+        "nome": "Marcos",
+        "sobrenome": "Oliveira",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Rússia",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img src='img/qualquerdois.avif' width='200px'>"
+    },
+    {
+        "id": 7,
+        "cpf": 55555555555,
+        "nome": "Cláudio",
+        "sobrenome": "Nogueira",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Grécia",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img src='img/qualquertres.jfif' width='200px'>"
+    },
+    {
+        "id": 8,
+        "cpf": 66666666666,
+        "nome": "Valdisnei",
+        "sobrenome": "Santos",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Canadá",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img src='img/qualquerquatro.jpg' width='200px'>"
+    },
+    {
+        "id": 9,
+        "cpf": 77777777777,
+        "nome": "Leonardo",
+        "sobrenome": "Silveira",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Áustria",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img src='img/qualquercinco.jpg' width='200px'>"
+    },
+    {
+        "id": 10,
+        "cpf": 88888888888,
+        "nome": "",
+        "sobrenome": "",
+        "cidade": "Mogi das Cruzes",
+        "pais": "Colômbia",
+        "link": "https://sp.senai.br/unidade/mogidascruzes",
+        "imagem": "<img src='img/qualquerseis.avif' width='200px'>"
     }
-
 ]
+
